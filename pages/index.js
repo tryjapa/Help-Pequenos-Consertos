@@ -2,6 +2,7 @@ import NavBar from "../components/Navbar"
 import AboutUs from "../components/AboutUs"
 import Services from "../components/Services"
 import ContactUs from "../components/ContactUs"
+import LastJobs from "../components/LastJobs"
 
 function Home(){
     return (
@@ -11,6 +12,7 @@ function Home(){
     </head>
     <NavBar></NavBar>   
     <Services></Services>
+    <LastJobs></LastJobs>
     <AboutUs></AboutUs>    
    
     <ContactUs></ContactUs>
