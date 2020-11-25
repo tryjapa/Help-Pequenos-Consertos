@@ -21,8 +21,9 @@ const NavBar = () => {
 	<FaHamburger className={styles.toggle} onClick={handleToggle}/>
 	<ul className={styles.menu}>		
 	<li><a  className={styles.active} href="#main">Home</a ></li>
-	<li><a  href="#about">Sobre nós</a >           </li>
+	
 	<li> <a  href="#services">Serviços</a ></li>
+	<li><a  href="#about">Sobre nós</a >           </li>
 	<li><a  href="#contact-form">Contato</a ></li>
 	
 	</ul>
