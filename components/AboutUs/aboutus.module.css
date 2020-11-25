@@ -30,6 +30,7 @@
 .about-text p{
 	font-size: 1.2rem;
 	color:rgba(255,255,255,0.90);
+	white-space: pre-line ;
 	
 }
 .about-text button{
