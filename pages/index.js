@@ -5,6 +5,8 @@ import ContactUs from "../components/ContactUs"
 import LastJobs from "../components/LastJobs"
 
 function Home(){
+
+    
     return (
     <>
     <head>
